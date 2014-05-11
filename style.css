@@ -22,7 +22,7 @@ animation: myfirst 5s;
 /* Chrome, Safari, Opera */
 @-webkit-keyframes myfirst
 {
-from {background: orangew;}
+from {background: orange;}
 to {background: blue;}
 }
 
